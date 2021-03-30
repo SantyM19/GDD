@@ -1,7 +1,9 @@
-GDD GameDesignDocument
+GDD GameDesignDocument 
+
+The Rise Of The Fallen 
+El ascenso del caido
 
 Lead Game Designer: Know all Game Designer Branchs
-
 * Game Designer: General Design
 * Game Writer: Narrative
 * StoryBoard Artist: Final sketches on the story and leads the dialogue
@@ -15,27 +17,36 @@ Players <------------------+-------------------> World
          Socializers       |        Explorers
                       Interacting
 
+   Killers - Achievers - Explorers
+
+   Adventure 
+     plataforms - running - figth
+
+   Accesibility --> Web
 
 Narrative GamePlay
 
+  Narrative ---------x-------- Gameplay
+  With undertone(trasfondo).  And god Gameplay --> Running
+  the three acts
+  narratology
+
 FlowZone
-- Dificulty 
--- No lineal model
--- Lineal Model
+- Dificulty
 -- Mixto
 
 Worlds
-  About this Scenaries
+  Post Apocalyptic in a magical and technological future
 
-Income $$$
+***Income $$$
   How to Sell Your Game
 
-Conversion funnel
+***Conversion funnel
 - Marketing Strategy
 
-VideoGame Justice
+***VideoGame Justice
   Pay for Pro Skins Utils
 
-Test A/B
+***Test A/B
   Video Game free or payed
 
