@@ -12,8 +12,30 @@ Classification
                         Acting 
            Killers         |       Achievers
 Players <------------------+-------------------> World
-         Socializers       |       Explorers
+         Socializers       |        Explorers
                       Interacting
 
 
+Narrative GamePlay
+
+FlowZone
+- Dificulty 
+-- No lineal model
+-- Lineal Model
+-- Mixto
+
+Worlds
+  About this Scenaries
+
+Income $$$
+  How to Sell Your Game
+
+Conversion funnel
+- Marketing Strategy
+
+VideoGame Justice
+  Pay for Pro Skins Utils
+
+Test A/B
+  Video Game free or payed
 
