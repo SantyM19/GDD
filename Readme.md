@@ -7,4 +7,13 @@ Lead Game Designer: Know all Game Designer Branchs
 * StoryBoard Artist: Final sketches on the story and leads the dialogue
 * Concept Artist: Graphic Design
 
+Classification
+
+                        Acting 
+           Killers         |       Achievers
+Players <------------------+-------------------> World
+         Socializers       |       Explorers
+                      Interacting
+
+
 
